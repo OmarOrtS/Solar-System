@@ -33,6 +33,6 @@ Al hacer clic sobre un planeta, luna o estrella, se despliega un panel informati
 
 # Demo en video
 <video width="640" height="360" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
+  <source src="https://github.com/OmarOrtS/Solar-System/releases/download/video/demo.mkv" type="video/mkv">
   Tu navegador no soporta la etiqueta de video.
 </video>
