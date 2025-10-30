@@ -32,7 +32,5 @@ Al hacer clic sobre un planeta, luna o estrella, se despliega un panel informati
   Inclinación orbital
 
 # Demo en video
-<video width="640" height="360" controls>
-  <source src="https://github.com/OmarOrtS/Solar-System/releases/download/video/demo.mkv" type="video/mkv">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+[![Ver demostración]
+https://github.com/OmarOrtS/Solar-System/releases/download/video/demo.mkv
