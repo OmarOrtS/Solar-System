@@ -33,3 +33,6 @@ Al hacer clic sobre un planeta, luna o estrella, se despliega un panel informati
 
 # Demo en video
 link de descarga: https://github.com/OmarOrtS/Solar-System/releases/download/video/demo.mkv
+
+# Codesandbox
+https://codesandbox.io/p/sandbox/sistema-solar-zvm9qd?file=%2Fsrc%2Findex.js
